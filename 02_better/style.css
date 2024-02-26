@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0px;
+  background-color: rgb(156, 220, 250);
+  overflow: hidden;
+}
+#canvas {
+  display: block;
+}
